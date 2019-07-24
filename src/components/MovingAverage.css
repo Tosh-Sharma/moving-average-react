@@ -1,0 +1,12 @@
+#container {
+    width: 50%;
+    background-color: white;
+    margin: auto;
+    color: black;
+}
+
+.button {
+    background: red;
+    border-radius: 8px;
+    color: white;
+  }
